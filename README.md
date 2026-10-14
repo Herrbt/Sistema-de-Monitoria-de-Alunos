@@ -118,4 +118,4 @@ No ficheiro pom.xml do teu projeto, deves garantir a inclusão da biblioteca Jac
 
 | Ferramenta | Objetivo | Resumo do uso | Revisão pelo Dev |
 | :--- | :--- | :--- | :--- |
-| Gemini Nível MAX de Raciocínio | Código Base, Regras de Negócio e Documentação | Auxiliou na estruturação do código base em Java, implementação e correção das regras de negócio, resolução de erros do Maven/classpath, suporte na persistência JSON e suporte na estética da estrutura do README.md. | Validação dos testes unitários e manuais, execução do projeto via CLI, revisão de erros e adaptação do código aos requisitos do projeto. |
+| Gemini 3 Nível MAX de Raciocínio | Código Base, Regras de Negócio e Documentação | Auxiliou na estruturação do código base em Java, implementação e correção das regras de negócio, resolução de erros do Maven/classpath, suporte na persistência JSON e suporte na estética da estrutura do README.md. | Validação dos testes unitários e manuais, execução do projeto via CLI, revisão de erros e adaptação do código aos requisitos do projeto. |
