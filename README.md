@@ -91,7 +91,7 @@ O projeto deve seguir rigorosamente o padrão de diretórios do Maven para evita
 - `src/test/java/`: Reservado exclusivamente para os testes unitários (*Test.java).
 
 ### 3. Configuração das Dependências (pom.xml)
-No ficheiro pom.xml do teu projeto, deves garantir a inclusão da biblioteca Jackson (para a serialização/desserialização em JSON) e do JUnit 5 (para os testes):
+
 - **Jackson Databind:** Responsável por converter os objetos do sistema no ficheiro sistema_monitoria.json.
 - **JUnit 5:** Framework para validar as regras de negócio de forma automatizada.
 
